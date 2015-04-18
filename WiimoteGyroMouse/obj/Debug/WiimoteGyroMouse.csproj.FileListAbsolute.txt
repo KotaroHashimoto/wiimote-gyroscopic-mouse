@@ -1,0 +1,29 @@
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\bin\Debug\WiimoteGyroMouse.exe.manifest
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\bin\Debug\WiimoteGyroMouse.application
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\bin\Debug\WiimoteGyroMouse.exe
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\bin\Debug\WiimoteGyroMouse.pdb
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Debug\WiimoteGyroMouse.Form1.resources
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Debug\WiimoteGyroMouse.Properties.Resources.resources
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Debug\WiimoteGyroMouse.csproj.GenerateResource.Cache
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Debug\WiimoteGyroMouse.exe.manifest
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Debug\WiimoteGyroMouse.application
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Debug\WiimoteGyroMouse.exe
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Debug\WiimoteGyroMouse.pdb
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\WiimoteJyroMouse\obj\Debug\WiimoteGyroMouse.exe
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\WiimoteJyroMouse\obj\Debug\WiimoteGyroMouse.pdb
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\obj\Debug\WiimoteGyroMouse.exe
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\obj\Debug\WiimoteGyroMouse.pdb
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\obj\Debug\WiimoteGyroMouse.exe
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\obj\Debug\WiimoteGyroMouse.pdb
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\bin\Debug\WiimoteGyroMouse.exe.manifest
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\bin\Debug\WiimoteGyroMouse.application
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\bin\Debug\WiimoteGyroMouse.exe
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\bin\Debug\WiimoteGyroMouse.pdb
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\bin\Debug\WiimoteLib.dll
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\obj\Debug\WiimoteGyroMouse.Form1.resources
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\obj\Debug\WiimoteGyroMouse.Properties.Resources.resources
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\obj\Debug\WiimoteGyroMouse.csproj.GenerateResource.Cache
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\obj\Debug\WiimoteGyroMouse.exe.manifest
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\obj\Debug\WiimoteGyroMouse.application

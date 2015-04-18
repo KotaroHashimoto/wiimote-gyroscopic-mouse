@@ -1,0 +1,26 @@
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\bin\Release\WiimoteGyroMouse.exe.manifest
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\bin\Release\WiimoteGyroMouse.application
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\bin\Release\WiimoteGyroMouse.exe
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\bin\Release\WiimoteGyroMouse.pdb
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Release\WiimoteGyroMouse.Form1.resources
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Release\WiimoteGyroMouse.Properties.Resources.resources
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Release\WiimoteGyroMouse.csproj.GenerateResource.Cache
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Release\WiimoteGyroMouse.exe.manifest
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Release\WiimoteGyroMouse.application
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Release\WiimoteGyroMouse.exe
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteJyroMouse\obj\Release\WiimoteGyroMouse.pdb
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\bin\Release\WiimoteGyroMouse.exe.manifest
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\bin\Release\WiimoteGyroMouse.application
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\bin\Release\WiimoteGyroMouse.exe
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\bin\Release\WiimoteGyroMouse.pdb
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\obj\Release\WiimoteGyroMouse.Form1.resources
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\obj\Release\WiimoteGyroMouse.Properties.Resources.resources
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\obj\Release\WiimoteGyroMouse.csproj.GenerateResource.Cache
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\obj\Release\WiimoteGyroMouse.exe.manifest
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\obj\Release\WiimoteGyroMouse.application
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\obj\Release\WiimoteGyroMouse.exe
+C:\Documents and Settings\橋本　耕太郎\デスクトップ\WiimoteGyroMouse\WiimoteGyroMouse\obj\Release\WiimoteGyroMouse.pdb
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\obj\Release\WiimoteGyroMouse.exe
+C:\Documents and Settings\橋本耕太郎\My Documents\Visual Studio 2008\Projects\WiimoteGyroMouse\WiimoteGyroMouse\obj\Release\WiimoteGyroMouse.pdb
